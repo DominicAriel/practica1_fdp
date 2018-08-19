@@ -1,5 +1,5 @@
 int main(){
   printf("\nHola Mundo");
-  printf("\nDominic Ariel\n")
+  printf("\nDominic Ariel\n");
   return 0;
 }
